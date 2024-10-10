@@ -7,4 +7,4 @@ This repository contains an HTML document (index_1.html) that displays student i
 Details
 Name: Muhammad Usman Hassan
 Registration Number: 04162214011
-Semester: 5th Evening
+Semester:5th Evening
